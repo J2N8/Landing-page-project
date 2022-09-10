@@ -1,0 +1,107 @@
+.autism-content {
+        display: block;
+        max-width: 60%;
+        border: 10px solid #24439E;
+        box-shadow: 10px 5px 5px rgb(0,0,0,0.3);
+      }
+
+      .footer {
+        text-align: center;
+        font-size: 16px;
+      }
+      .information {
+        margin: 20px;
+
+      }
+
+      .more-info {
+        display: block;
+        font-size: 14px;
+        text-decoration: none;
+        color: #24439E;
+      }
+
+      .more-info:hover {
+        text-decoration: underline;
+      }
+
+      .linked-in {
+        color: #24439E;
+        text-decoration: underline;
+      }
+
+      .linked-in:hover {
+        text-decoration: none;
+      }
+
+      body{
+        margin: 20px auto;
+        background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+      }
+
+      div{
+        margin: 0 auto;
+        border-radius: 10px;
+        padding: 10px 30px;
+        background: #FFFFFF;
+      }
+
+      button {
+        background: #24439E;
+        border: 1px solid #24439E;
+        border-radius: 10px;
+        box-shadow: 10px 5px 5px rgb(220, 220, 220);
+        color: #FFFFFF;
+        display: block;
+        font-size: 18px;
+        margin: 0 auto;
+        padding: 20px;
+        transition: all 200ms ease-in-out;
+      }
+      
+      button:hover {
+        cursor: pointer;
+        opacity: 0.7;
+      }
+
+
+      h1 {
+        text-align: center;
+        color: #24439E;
+        font-family:'Courier New', Courier, monospace;
+        font-size: 55px;
+        margin: 20px;
+      }
+      h2 {
+        color: #29BCE5;
+        font-size: 30px;
+        padding: 5px;
+        margin: 20px;
+        text-align: center;
+      }
+      
+      h3 {
+        color: #DE2429;
+        font-size: 20px;
+      }
+
+      hr{
+        border: none;
+        height: 6px;
+        background: #24439E;
+      }
+
+      img {
+        display: block;
+        margin: 0 auto;
+        max-width: 40%;
+      }
+
+      p {
+        line-height: 1.5;
+        font-size: 18px;
+      }
+
+      ul{
+        font-size: 18px;
+      }
